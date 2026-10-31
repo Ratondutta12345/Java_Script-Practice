@@ -21,3 +21,15 @@
 // person.city = "Delhi"
 
 // console.log(person)
+
+
+// let student = {
+//     name: "Raton",
+//     age: 22,
+//     course: "B.Tech"
+// }
+
+// student.course = "CSE"
+// student.city = "Kolkata"
+
+// console.log(student)
